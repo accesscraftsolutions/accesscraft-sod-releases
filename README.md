@@ -14,7 +14,7 @@ Nothing is installed: a folder and a browser.
 Each release also has two guides you can open without the analyser:
 
 - **AccessCraft_Browser_Edition_Getting_Started.docx**: for first-time users, a Word guide with pictures from the download to your first saved workspace.
-- **AccessCraft_Step_by_Step_Guide.html**: the full step-by-step guide to every part of the analyser, one file that opens in your browser. Inside the analyser, **How to?** in the left menu opens the same guide.
+- **AccessCraft_Step_by_Step_Guide.html**: the full step-by-step guide to every part of the analyser, one file that opens in your browser. Inside the analyser, **Step by step guide** in the left menu opens the same guide.
 
 Your data stays in the browser on your own computer. Use **Save to file** in the sidebar to keep a copy of your workspace.
 
