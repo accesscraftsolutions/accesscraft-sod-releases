@@ -18,8 +18,18 @@ Each release also has two guides you can open without the analyser:
 
 Your data stays in the browser on your own computer. Use **Save to file** in the sidebar to keep a copy of your workspace.
 
+## Desktop edition (Windows)
+
+Releases tagged `desktop-<version>` hold the Windows application:
+
+- `AccessCraft SoD Analyzer Setup <version>.exe`: the installer.
+- `AccessCraft SoD Analyzer Portable <version>.exe`: runs without installing.
+- `AccessCraft SoD Analyzer <version>.msi`: the installer as an MSI, for central deployment.
+
+Start the application and enter your licence key when asked. It shows the Reference ID to send when requesting a key. **How to?** in the left menu opens the interactive guide.
+
 The "Source code" files GitHub lists under each release contain only this page.
 
 ## Licence
 
-The software is licensed, not sold. A valid licence key is required to use it. See `LICENSE NOTICE.txt` inside the zip.
+The software is licensed, not sold. A valid licence key is required to use it. For the browser edition, see `LICENSE NOTICE.txt` inside the zip.
