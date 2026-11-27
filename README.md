@@ -22,9 +22,9 @@ Your data stays in the browser on your own computer. Use **Save to file** in the
 
 Releases tagged `desktop-<version>` hold the Windows application:
 
-- `AccessCraft SoD Analyzer Setup <version>.exe`: the installer.
-- `AccessCraft SoD Analyzer Portable <version>.exe`: runs without installing.
-- `AccessCraft SoD Analyzer <version>.msi`: the installer as an MSI, for central deployment.
+- `AccessCraft.SoD.Analyzer.Setup.<version>.exe`: the installer.
+- `AccessCraft.SoD.Analyzer.Portable.<version>.exe`: runs without installing.
+- `AccessCraft.SoD.Analyzer.<version>.msi`: the installer as an MSI, for central deployment.
 
 Start the application and enter your licence key when asked. It shows the Reference ID to send when requesting a key. **How to?** in the left menu opens the interactive guide.
 
